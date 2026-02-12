@@ -154,9 +154,9 @@
 </div>
 
 <!-- Profile Views Counter -->
-<div align="center">
+<!-- <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=00d4ff&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
-</div>
+</div> -->
