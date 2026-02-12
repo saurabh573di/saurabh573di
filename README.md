@@ -31,7 +31,7 @@
 
 - 🎓 **BCA Graduate (2022-2025)** - Dev Bhoomi Uttarakhand University
 - 🛠️ **Currently Training:** MERN Stack Development at QS Spiders, Noida
-- 🧠 **Learning Path:** MongoDB, Express.js, React.js, Node.js, RESTful APIs  
+- 🧠 **Learning Path:** html, css , Java Script, React.js , Tailwind Css, MongoDB, Express.js, React.js, Node.js, RESTful APIs  
 - 🏆 **Focus:** Building responsive web applications with modern technologies
 - 🌱 **Exploring:** JWT Authentication, Role-Based Access Control, Cloud Storage (Cloudinary)
 - 💡 **Goal:** Growing as a Full-Stack Developer in a collaborative environment
@@ -91,32 +91,32 @@
 
 </div>
 
----
+
 
 <!-- GitHub Stats Section -->
-<div align="center">
+<!-- <div align="center">
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> **GitHub Analytics** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40">
 </div>
 
-<div align="center">
+<div align="center"> -->
   
 <!-- GitHub Stats with fallback -->
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&cache_seconds=1800&rank_icon=github"/>
+<!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&cache_seconds=1800&rank_icon=github"/> -->
 
 <!-- GitHub Streak Stats -->
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+<!-- <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 
-</div>
+</div> -->
 
 <!-- Top Languages -->
-<div align="center">
+<!-- <div align="center">
 
 ### **💻 Most Used Languages**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)
 
-</div>
+</div> -->
 
 ---
 
@@ -143,7 +143,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=⚡+Keep+Building+Amazing+Things;⚡+Code+with+Passion;⚡+Debug+with+Patience;⚡+Deploy+with+Confidence;" alt="Typing SVG" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true" width="100%"/> -->
 
 
 
