@@ -85,9 +85,9 @@
 
 | 🚀 **Project** | 💡 **Description** | 🛠️ **Tech Stack** | 🔗 **Link** |
 |:---:|:---:|:---:|:---:|
-| **👤 Personal Portfolio** | Responsive portfolio website with interactive components, theme toggle, and smooth navigation | `React.js` `Tailwind CSS` `JavaScript` | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/portfolio) |
-| **📝 CRUD Application** | Full-featured CRUD app with authentication, dynamic search, and filtering capabilities | `React.js` `Tailwind CSS` `JSON Server` | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/crud-app) |
-| **📰 Blog Application Backend** | Scalable blog backend with role-based access, JWT authentication, and AI-powered content generation | `Node.js` `Express.js` `MongoDB` `Cloudinary` `Gemini AI` | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/blog-backend) |
+| **👤 Personal Portfolio** | Responsive portfolio website with interactive components, theme toggle, and smooth navigation | `React.js` `Tailwind CSS` `JavaScript` | [![LINK](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://my-portfolio-frontend-p6do.vercel.app/) |
+| **📝 CRUD Application** | Full-featured CRUD app with authentication, dynamic search, and filtering capabilities | `React.js` `Tailwind CSS` `JSON Server` | [![LINK](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://vercel.com/saurabh-singh-dosads-projects/crudapp-frontend1) |
+| **📰 Blog Application Backend** | Scalable blog backend with role-based access, JWT authentication, and AI-powered content generation | `Node.js` `Express.js` `MongoDB` `Cloudinary` `Gemini AI` | [![LINK](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/blog-backend) |
 
 </div>
 
