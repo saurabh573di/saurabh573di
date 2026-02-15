@@ -88,7 +88,7 @@
 | **👤 Personal Portfolio** | Responsive portfolio website with interactive components, theme toggle, and smooth navigation | `React.js` `Tailwind CSS` `JavaScript` | [![LINK](https://img.shields.io/badge/Link-100000?style=for-the-badge&logo=link&logoColor=white)](https://my-portfolio-frontend-p6do.vercel.app) |
 | **🔗 ProLink** | Social networking platform for professionals with real-time chat, posts, likes, and connections | `React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Tailwind CSS` | [![LINK](https://img.shields.io/badge/Link-100000?style=for-the-badge&logo=link&logoColor=white)](https://pro-link-ten.vercel.app/) |
 | **📝 CRUD Application** | Full-featured CRUD app with authentication, dynamic search, and filtering capabilities | `React.js` `Tailwind CSS` `JSON Server` | [![LINK](https://img.shields.io/badge/Link-100000?style=for-the-badge&logo=link&logoColor=white)](https://crudapp-frontend1.vercel.app) |
-| **📰 Blog Application Backend** | Scalable blog backend with role-based access, JWT authentication, and AI-powered content generation | `Node.js` `Express.js` `MongoDB Atlas` `Cloudinary` `Gemini AI` | [![LINK](https://img.shields.io/badge/Link-100000?style=for-the-badge&logo=link&logoColor=white)](https://github.com/yourusername/blog-backend) |
+| **📰 Blog Application Backend** | Scalable blog backend with role-based access, JWT authentication, and AI-powered content generation | `Node.js` `Express.js` `MongoDB Atlas` `Cloudinary` `Gemini AI` | [![GITHUB](https://img.shields.io/badge/Link-100000?style=for-the-badge&logo=link&logoColor=white)](https://github.com/saurabh573di/BlogApp_backend) |
 
 
 </div>
